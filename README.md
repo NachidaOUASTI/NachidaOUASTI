@@ -1,6 +1,6 @@
-## Bienvenue sur mon GitHub 👋💻
+## Bienvenue sur mon GitHub! 👋
 
-Je suis Nachida, développeuse web  passionnée par la création de sites et d'applications web interactives.  
+Je suis Nachida, développeuse web 💻 passionnée par la création de sites et d'applications web interactives.  
 Vous trouverez ici une collection de mes réalisations utilisant des technologies suivantes : HTML, CSS, JavaScript, React, Redux, Node.js...
 
 
