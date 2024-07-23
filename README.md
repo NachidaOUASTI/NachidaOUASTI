@@ -7,7 +7,7 @@ Vous trouverez ici une collection de mes réalisations utilisant des technologie
 N'hésitez pas à explorer mes projets et à me contacter par email ou via LinkedIn  :
 <p align="center">
    <br/>
-  <a href="mailto:n_o_78@yahoo.com?subject=Bonjour!">
+ <a href="mailto:n_o_78@yahoo.com?subject=Bonjour!">
     <img alt="n_o_78@yahoo.com" height="50px" width="50px" src="https://img.icons8.com/?size=100&id=xLIkjgcmFOsC&format=png&color=000000"/>
   </a>
  <a href="https://www.linkedin.com/in/nachida-ouasti-b64a32292/">
