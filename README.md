@@ -11,7 +11,8 @@ Je suis Nachida, développeuse web 💻 passionnée par la création de sites et
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=000000)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=Redux&logoColor=FFFFFF)](https://redux.js.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/)  
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/)
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?&logo=WordPress&logoColor=FFFFFF)](https://wordpress.org/)
 
 ## Me contacter
 <p align="left">
